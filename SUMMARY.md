@@ -5,7 +5,7 @@
 
 ## Tech
 
-* [Untitled](tech/untitled.md)
+* [Things I Like](tech/untitled.md)
 
 ## Law
 
