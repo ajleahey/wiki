@@ -1,5 +1,5 @@
 ---
-description: 'Things I like that are tech, or tech-adjacent.'
+description: 'Things I like that are tech, or tech-adjacent; ephemera.'
 ---
 
 # Things I Like
