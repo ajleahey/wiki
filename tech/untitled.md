@@ -12,8 +12,7 @@ Jupyter Notebooks/Lab -
 Docker -   
 Slack -  
 NetNewsWire -   
-Pocket  
-
+Pocket
 
 **Books**
 
